@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34002" started-at="2016-12-05T10:32:32Z" finished-at="2016-12-05T10:33:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34002" started-at="2016-12-05T10:32:32Z" finished-at="2016-12-05T10:33:06Z">
+      <class name="HW3.tests.SearchTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:HW3.tests.SearchTest@5c7fa833]" name="beforeTest" is-config="true" duration-ms="18612" started-at="2016-12-05T12:32:32Z" finished-at="2016-12-05T12:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="positiveSearchByEmailTest()[pri:0, instance:HW3.tests.SearchTest@5c7fa833]" name="positiveSearchByEmailTest" duration-ms="4092" started-at="2016-12-05T12:32:51Z" finished-at="2016-12-05T12:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveSearchByEmailTest -->
+        <test-method status="PASS" signature="positiveSearchByFirstNameTest()[pri:0, instance:HW3.tests.SearchTest@5c7fa833]" name="positiveSearchByFirstNameTest" duration-ms="3331" started-at="2016-12-05T12:32:55Z" finished-at="2016-12-05T12:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveSearchByFirstNameTest -->
+        <test-method status="PASS" signature="positiveSearchByLastNameTest()[pri:0, instance:HW3.tests.SearchTest@5c7fa833]" name="positiveSearchByLastNameTest" duration-ms="3549" started-at="2016-12-05T12:32:58Z" finished-at="2016-12-05T12:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveSearchByLastNameTest -->
+        <test-method status="PASS" signature="positiveSearchByUsernameTest()[pri:0, instance:HW3.tests.SearchTest@5c7fa833]" name="positiveSearchByUsernameTest" duration-ms="3658" started-at="2016-12-05T12:33:02Z" finished-at="2016-12-05T12:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveSearchByUsernameTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:HW3.tests.SearchTest@5c7fa833]" name="afterTest" is-config="true" duration-ms="714" started-at="2016-12-05T12:33:06Z" finished-at="2016-12-05T12:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- HW3.tests.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
